@@ -1,0 +1,7 @@
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\bin\Debug\restaurant_mini_class_project.exe.config
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\bin\Debug\restaurant_mini_class_project.exe
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\bin\Debug\restaurant_mini_class_project.pdb
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\obj\Debug\restaurant_mini_class_project.csproj.AssemblyReference.cache
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\obj\Debug\restaurant_mini_class_project.csproj.CoreCompileInputs.cache
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\obj\Debug\restaurant_mini_class_project.exe
+D:\c sharp projects\restaurant_mini_class_project\restaurant_mini_class_project\obj\Debug\restaurant_mini_class_project.pdb
