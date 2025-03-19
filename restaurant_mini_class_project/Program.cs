@@ -11,7 +11,7 @@ namespace restaurant_mini_class_project
         bool cancel_Order, cancel_Activity = false;
 
         /*
-            === FUNCTIONS NEEDED ===
+            ===  FUNCTIONS NEEDED  ===
          *  1. options
          *  2. order-breakast 
          *  2. order-lunch 
